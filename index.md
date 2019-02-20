@@ -1,5 +1,3 @@
-# Clinical Instructor Messaging Project
-
 ```markdown
 ## Background
  -bullet list
