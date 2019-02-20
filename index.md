@@ -2,11 +2,11 @@
 ## Background
  -bullet list
 
-```markdown
+
 ## Current Findings
 -bullet list
 
-```markdown
+
 ## Interesting Findings
 -bullet list
 ```
